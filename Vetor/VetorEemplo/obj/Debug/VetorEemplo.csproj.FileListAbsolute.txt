@@ -1,0 +1,8 @@
+C:\Users\ALUNO\Documents\Michel_LOL\Vetor\VetorEemplo\bin\Debug\VetorEemplo.exe.config
+C:\Users\ALUNO\Documents\Michel_LOL\Vetor\VetorEemplo\bin\Debug\VetorEemplo.exe
+C:\Users\ALUNO\Documents\Michel_LOL\Vetor\VetorEemplo\bin\Debug\VetorEemplo.pdb
+C:\Users\ALUNO\Documents\Michel_LOL\Vetor\VetorEemplo\obj\Debug\VetorEemplo.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Documents\Michel_LOL\Vetor\VetorEemplo\obj\Debug\VetorEemplo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALUNO\Documents\Michel_LOL\Vetor\VetorEemplo\obj\Debug\VetorEemplo.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Documents\Michel_LOL\Vetor\VetorEemplo\obj\Debug\VetorEemplo.exe
+C:\Users\ALUNO\Documents\Michel_LOL\Vetor\VetorEemplo\obj\Debug\VetorEemplo.pdb
